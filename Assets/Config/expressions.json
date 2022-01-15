@@ -1,0 +1,54 @@
+{
+	"IDLE" : {
+		"src" : "test.gif",
+		"duration" : 5.0,
+		"triggers" : []
+	},
+	"NEUTRAL" : {
+		"src" : "test.gif",
+		"duration" : 5.0,
+		"triggers" : []
+	},
+	"WAVE" : {
+		"src" : "test.gif",
+		"duration" : 5.0,
+		"triggers" : [
+			"Hi", "Bye"
+		]
+	},
+	"HAPPY" : {
+		"src" : "test.gif",
+		"duration" : 5.0,
+		"triggers" : []
+	},
+	"LOVE" : {
+		"src" : "test.gif",
+		"duration" : 5.0,
+		"triggers" : []
+	},
+	"LAUGH" : {
+		"src" : "test.gif",
+		"duration" : 5.0,
+		"triggers" : []
+	},
+	"SAD" : {
+		"src" : "test.gif",
+		"duration" : 5.0,
+		"triggers" : []
+	},
+	"SURPRISED" : {
+		"src" : "test.gif",
+		"duration" : 5.0,
+		"triggers" : []
+	},
+	"CONFUSED" : {
+		"src" : "test.gif",
+		"duration" : 5.0,
+		"triggers" : []
+	},
+	"GUN" : {
+		"src" : "test.gif",
+		"duration" : 5.0,
+		"triggers" : []
+	}
+}
