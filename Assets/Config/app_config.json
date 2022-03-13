@@ -1,0 +1,5 @@
+{
+  "streamer": "enduo",
+  "reset_delay": 3.0,
+  "history_length": 3
+}
